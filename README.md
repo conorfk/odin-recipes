@@ -1,2 +1,2 @@
 # odin-recipes
-Basic git project to get familiar with simple formatting
+### Basic git project to get familiar with simple formatting
