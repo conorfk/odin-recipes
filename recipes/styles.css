@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif, "Times New Roman", Verdana;
+}
+
+p {
+    font-size: 14px;
+}
+
+ul > li > ul > li {
+    color: rgb(132, 140, 140);
+}
